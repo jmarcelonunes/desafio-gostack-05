@@ -8,7 +8,7 @@ import { Router } from 'express';
 const transactionsRouter = Router();
 
 transactionsRouter.get('/', async (request, response) => {
-  // TODO
+  // TODO Get
 });
 
 transactionsRouter.post('/', async (request, response) => {
